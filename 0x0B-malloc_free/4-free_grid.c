@@ -2,10 +2,11 @@
 #include <stdlib.h>
 
 /**
- * * free_grid -> removing memory allocation
- * * @grid: grid to be freed
- * * @height: height of matrix
- * * Return: nothing
+ * * free_grid -> ...
+ * * @grid: ...
+ * * @height: ...
+ *
+ * * Return: ...
  */
 void free_grid(int **grid, int height)
 {
